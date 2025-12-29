@@ -1,15 +1,18 @@
 ## Hi, I'm [Shadan Sarfaraz](https://your-portfolio-website-link)👋  
 
-Data Analyst in training with a strong foundation in computer science and analytical thinking.  
+Early-career Data Analyst with a strong foundation in computer science and analytical thinking. 
 Focused on building practical skills in data analysis, visualization, and insight-driven decision making.
 
-
+---
 
 **Education**  
 B.Tech — Computer Science & Engineering (8.76 CGPA)
 
+**Certifications**  
+Google Advanced Data Analytics — Coursera  
+Data Analytics Certification — IIT Jammu
+
 **Currently**  
-Data Analytics Certification — IIT Jammu  
 Data Analyst Intern — AI Variant
 
 **Core Skills**  
@@ -19,9 +22,10 @@ Data Analysis · Dashboards · KPI Tracking
 **Interests**  
 Analytics · Structured problem-solving · Continuous learning
 
-
+---
 
 [LinkedIn](https://www.linkedin.com/in/shadansarfaraz1)
+
 [Newsletter](https://shadansarfaraz.substack.com/)
 
 <!--
