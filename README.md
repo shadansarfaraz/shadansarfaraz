@@ -1,4 +1,4 @@
-# Hi, I'm [Shadan Sarfaraz](https://your-portfolio-website-link)👋  
+## Hi, I'm [Shadan Sarfaraz](https://your-portfolio-website-link)👋  
 
 Data Analyst in training with a strong foundation in computer science and analytical thinking.  
 Focused on building practical skills in data analysis, visualization, and insight-driven decision making.
