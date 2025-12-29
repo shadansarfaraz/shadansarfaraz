@@ -3,7 +3,6 @@
 Data Analyst in training with a strong foundation in computer science and analytical thinking.  
 Focused on building practical skills in data analysis, visualization, and insight-driven decision making.
 
----
 
 **Education**  
 B.Tech — Computer Science & Engineering (8.76 CGPA)
@@ -19,9 +18,8 @@ Data Analysis · Dashboards · KPI Tracking
 **Interests**  
 Analytics · Structured problem-solving · Continuous learning
 
----
 
-[LinkedIn]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/shadansarfaraz1))
+[LinkedIn](https://www.linkedin.com/in/shadansarfaraz1)
 [Newsletter](https://shadansarfaraz.substack.com/)
 
 <!--
