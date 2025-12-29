@@ -1,6 +1,7 @@
 ## Hi, I'm [Shadan Sarfaraz](https://your-portfolio-website-link)👋  
 
 Early-career Data Analyst with a strong foundation in computer science and analytical thinking. 
+
 Focused on building practical skills in data analysis, visualization, and insight-driven decision making.
 
 ---
@@ -25,7 +26,6 @@ Analytics · Structured problem-solving · Continuous learning
 ---
 
 [LinkedIn](https://www.linkedin.com/in/shadansarfaraz1)
-
 [Newsletter](https://shadansarfaraz.substack.com/)
 
 <!--
