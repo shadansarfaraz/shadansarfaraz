@@ -1,4 +1,28 @@
-## Hi there 👋
+# Hi, I'm [Shadan Sarfaraz](https://your-portfolio-website-link)👋  
+
+Data Analyst in training with a strong foundation in computer science and analytical thinking.  
+Focused on building practical skills in data analysis, visualization, and insight-driven decision making.
+
+---
+
+**Education**  
+B.Tech — Computer Science & Engineering (8.76 CGPA)
+
+**Currently**  
+Data Analytics Certification — IIT Jammu  
+Data Analyst Intern — AI Variant
+
+**Core Skills**  
+SQL (MySQL) · Excel · Power BI · Tableau · Python  
+Data Analysis · Dashboards · KPI Tracking
+
+**Interests**  
+Analytics · Structured problem-solving · Continuous learning
+
+---
+
+[LinkedIn]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/shadansarfaraz1))
+[Newsletter](https://shadansarfaraz.substack.com/)
 
 <!--
 **shadansarfaraz/shadansarfaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
