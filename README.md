@@ -1,4 +1,4 @@
-## Hi, I'm [Shadan Sarfaraz](https://your-portfolio-website-link)👋  
+## Hi, I'm Shadan Sarfaraz👋  
 
 Early-career Data Analyst with a strong foundation in computer science and analytical thinking. 
 
